@@ -9,8 +9,8 @@
 - pianobar
 - emacs
 - emacs-goodies-el
-- quassel-client-qt4
+- weechat
 - feh
 - ubuntu-restricted-extras
 - google chrome
-- 
+- vlc
